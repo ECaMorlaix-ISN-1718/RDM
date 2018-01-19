@@ -1,2 +1,2 @@
 Equerre 3 Aluminium Binder  
-[![Binder](https://hub.mybinder.org/user/ecamorlaix-tsi-1718-rdm-ysbni86u/tree/Geoffrey/Equerre%203%20Aluminium)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ECaMorlaix-TSI-1718/RDM/tree/master/Geoffrey/Equerre%203%20Aluminium/master)
